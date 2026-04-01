@@ -73,6 +73,8 @@ A fully custom **zombie survival multiplayer server** built on FiveM. Players sc
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -80,7 +82,6 @@ A fully custom **zombie survival multiplayer server** built on FiveM. Players sc
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 
 **Infrastructure & Tools**
 
@@ -98,9 +99,9 @@ A fully custom **zombie survival multiplayer server** built on FiveM. Players sc
 
 <div align="center">
 
-![Forever506-Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Forever506-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Forever506-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Forever506-Dev's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Forever506-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forever506-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
