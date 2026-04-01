@@ -80,8 +80,7 @@ A fully custom **zombie survival multiplayer server** built on FiveM. Players sc
     </td>
     <td align="center">
       <strong>🏗️ Infrastructure & Tools</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=docker,postgres,redis,nginx&perline=4" /><br/><br/>
-      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=docker,postgres,redis,nginx&perline=4" />
     </td>
   </tr>
 </table>
