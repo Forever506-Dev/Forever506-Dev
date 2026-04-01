@@ -89,20 +89,6 @@ A fully custom **zombie survival multiplayer server** built on FiveM. Players sc
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=Forever506-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forever506-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
 <div align="center">
 
 *"Build things that matter. Break things to understand them. Repeat."*
