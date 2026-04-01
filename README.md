@@ -67,23 +67,24 @@ A fully custom **zombie survival multiplayer server** built on FiveM. Players sc
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,rust,html,css,lua&perline=8" alt="Languages" />
-
+<img src="https://skillicons.dev/icons?i=py,ts,js,rust,html,css,lua&perline=7" /><br/>
 ![JSON](https://img.shields.io/badge/JSON-black?style=flat-square&logo=json&logoColor=white)
 
 <br/>
 
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind&perline=8" alt="Frameworks" />
-
-<br/>
-
-**Infrastructure & Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,postgres,redis,nginx&perline=8" alt="Infrastructure" />
-
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+<table border="0" cellspacing="0" cellpadding="16">
+  <tr>
+    <td align="center">
+      <strong>🧩 Frameworks & Libraries</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind&perline=4" />
+    </td>
+    <td align="center">
+      <strong>🏗️ Infrastructure & Tools</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,postgres,redis,nginx&perline=4" /><br/><br/>
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
