@@ -6,7 +6,7 @@
 
 **Developer · Cybersecurity Builder · Game Server Creator**
 
-*Building tools that matter — from AI-powered security platforms to immersive multiplayer worlds.*
+*Building tools that matter from AI-powered security platforms to immersive multiplayer worlds.*
 
 <br/>
 
@@ -19,9 +19,9 @@
 
 ## 🙋 Who I Am
 
-I'm a self-driven developer passionate about **cybersecurity**, **AI**, and **multiplayer game experiences**. I love turning complex ideas into real, functional software — whether that's an AI-powered threat detection engine, a gamified hacking training platform, or a full survival multiplayer server with its own website.
+I'm a self-driven developer passionate about **cybersecurity**, **AI**, and **multiplayer game experiences**. I love turning complex ideas into real, functional software whether that's an AI-powered threat detection engine, a gamified hacking training platform, or a full survival multiplayer server with its own website.
 
-I build things from the ground up: architecture, backend, frontend, infrastructure — all of it.
+I build things from the ground up: architecture, backend, frontend, infrastructure all of it.
 
 ---
 
@@ -46,7 +46,7 @@ An open-source, AI-augmented **Endpoint Detection & Response** platform that com
 ---
 
 ### ⚔️ [LearnForge](https://github.com/Forever506-Dev/LearnForge) — Cybersecurity Training Platform
-An open-source, hands-on **cybersecurity learning platform** that spins up real isolated Docker lab environments directly in the browser. CTF-style challenges, full desktop VMs (Kali, Parrot, Windows 11), multi-language code execution, structured learning paths, XP & leaderboard gamification — zero local setup required.
+An open-source, hands-on **cybersecurity learning platform** that spins up real isolated Docker lab environments directly in the browser. CTF-style challenges, full desktop VMs (Kali, Parrot, Windows 11), multi-language code execution, structured learning paths, XP & leaderboard gamification zero local setup required.
 
 > **Stack:** Python · TypeScript · React · FastAPI · Docker · PostgreSQL · Redis · Nginx · Tailwind CSS
 
@@ -57,7 +57,7 @@ A fully custom **zombie survival multiplayer server** built on FiveM. Players sc
 
 > **Stack:** JavaScript (FiveM/Lua) · HTML · CSS
 
-🌐 **[theLastWorld Website](https://github.com/Forever506-Dev/TheLastWorld_Website)** — The official companion site for the server, featuring lore, guides, a photo gallery, and player resources — all wrapped in a gritty zombie-apocalypse aesthetic.
+🌐 **[theLastWorld Website](https://github.com/Forever506-Dev/TheLastWorld_Website)** — The official companion site for the server, featuring lore, guides, a photo gallery, and player resources all wrapped in a gritty zombie-apocalypse aesthetic.
 
 ---
 
