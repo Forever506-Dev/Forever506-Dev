@@ -52,12 +52,12 @@ An open-source, hands-on **cybersecurity learning platform** that spins up real 
 
 ---
 
-### 🧟 [TheLastWorld Surival](https://www.thelastworld.ca) FiveM Survival Multiplayer Server
+### 🧟 [TheLastWorld Surival](https://thelastworld.ca) FiveM Survival Multiplayer Server
 A fully custom **zombie survival multiplayer server** built on FiveM. Players scavenge, survive, and fight in a post-apocalyptic world overrun by infected. Includes custom scripts, game mechanics, and a full companion website.
 
 > **Stack:** JavaScript (FiveM/Lua) · HTML · CSS
 
-🌐 **[theLastWorld Website](https://www.thelastworld.ca)** — The official companion site for the server, featuring lore, guides, a photo gallery, and player resources all wrapped in a gritty zombie-apocalypse aesthetic.
+🌐 **[theLastWorld Website](https://thelastworld.ca)** — The official companion site for the server, featuring lore, guides, a photo gallery, and player resources all wrapped in a gritty zombie-apocalypse aesthetic.
 
 ---
 
