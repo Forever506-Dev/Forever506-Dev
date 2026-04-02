@@ -38,21 +38,21 @@ I build things from the ground up: architecture, backend, frontend, infrastructu
 
 ## 🚀 Projects I'm Building
 
-### 🛡️ [SentinelAI](https://github.com/Forever506-Dev/SentinelAI) — AI-Powered EDR Platform
+### 🛡️ [SentinelAI](https://github.com/Forever506-Dev/SentinelAI) AI-Powered EDR Platform
 An open-source, AI-augmented **Endpoint Detection & Response** platform that combines real-time endpoint telemetry with LLM-powered threat analysis. Features a cross-platform Rust agent (Windows, Linux, macOS), MITRE ATT&CK mapping, autonomous containment, and a live dashboard.
 
 > **Stack:** Rust · Python · TypeScript · Next.js · FastAPI · Tauri · PostgreSQL · Redis · Elasticsearch · Docker
 
 ---
 
-### ⚔️ [LearnForge](https://github.com/Forever506-Dev/LearnForge) — Cybersecurity Training Platform
+### ⚔️ [LearnForge](https://github.com/Forever506-Dev/LearnForge) Cybersecurity Training Platform
 An open-source, hands-on **cybersecurity learning platform** that spins up real isolated Docker lab environments directly in the browser. CTF-style challenges, full desktop VMs (Kali, Parrot, Windows 11), multi-language code execution, structured learning paths, XP & leaderboard gamification zero local setup required.
 
 > **Stack:** Python · TypeScript · React · FastAPI · Docker · PostgreSQL · Redis · Nginx · Tailwind CSS
 
 ---
 
-### 🧟 [TheLastWorld](https://github.com/Forever506-Dev/TheLastWorld_Survival) — FiveM Survival Multiplayer Server
+### 🧟 [TheLastWorld](https://github.com/Forever506-Dev/TheLastWorld_Survival) FiveM Survival Multiplayer Server
 A fully custom **zombie survival multiplayer server** built on FiveM. Players scavenge, survive, and fight in a post-apocalyptic world overrun by infected. Includes custom scripts, game mechanics, and a full companion website.
 
 > **Stack:** JavaScript (FiveM/Lua) · HTML · CSS
